@@ -30,7 +30,7 @@
 
 &#x20; - git push
 
-
+* learnt how staging area works
 
 Started my cybersecurity journey professionally.
 
