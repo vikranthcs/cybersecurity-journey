@@ -10,7 +10,7 @@ A computer is an electronic device that receives input, processes data, stores i
 
 Example:
 
-* Input: Clicking the Chrome icon
+* Input: Clicking the Chrome icons
 * Process: CPU executes instructions
 * Output: Chrome opens on the screen
 
